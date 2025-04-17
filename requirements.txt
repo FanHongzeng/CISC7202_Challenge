@@ -1,0 +1,7 @@
+torch == 1.13.1
+torchvision==0.14.1
+matplotlib==3.5.3
+numpy==1.21.6
+PYyAML
+pytorch_metric_learning
+#autoaugment
